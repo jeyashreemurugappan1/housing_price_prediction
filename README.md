@@ -1,5 +1,5 @@
 # housing_price_prediction
-This project aims at predicting factors on which sale price is depending up based
+This project aims at predicting factors on which sale price depends upon
 
 ## Table of Contents
 * [General Info](#general-information)
