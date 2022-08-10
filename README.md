@@ -1,5 +1,5 @@
 # housing_price_prediction
-This project aims at predicting factors on which sale price is depending up based
+This project aims at predicting factors on which sale price depends upon
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -10,7 +10,6 @@ This project aims at predicting factors on which sale price is depending up base
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
 - What is the background of your project?
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price.  
 The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
@@ -20,7 +19,7 @@ The company wants to know:
 - What is the business probem that your project is trying to solve?
 This project is trying to predict the factors on which Sale price depends 
 - What is the dataset that is being used?
-https://github.com/jeyashreemurugappan1/housing_price_prediction/data/train.csv
+https://github.com/jeyashreemurugappan1/housing_price_prediction/blob/main/data/train.csv
 
 ## Conclusions
 <span style="color:brown">Sale Price is more on below predictive factors.</span>
