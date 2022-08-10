@@ -19,7 +19,7 @@ The company wants to know:
 - What is the business probem that your project is trying to solve?
 This project is trying to predict the factors on which Sale price depends 
 - What is the dataset that is being used?
-https://github.com/jeyashreemurugappan1/housing_price_prediction/data/train.csv
+https://github.com/jeyashreemurugappan1/housing_price_prediction/blob/main/data/train.csv
 
 ## Conclusions
 <span style="color:brown">Sale Price is more on below predictive factors.</span>
